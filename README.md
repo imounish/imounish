@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 
 
 I'm a 21 year undergraduate in CS from National Institute of Technology, Raipur (2020).  
-I'm currently working in the field of Data Science & Deep Learning.  
-I love to travel, read books, and indulge in fitness. Also, a serious motorcycle enthusiast.  
+- 👨‍💻 I'm currently working in General Electric Healthcare Pvt. Ltd.
+- 🔭 I'm very much interested in Data Science & Deep Learning.  
+- 🌱 I love to travel, read books, and indulge in fitness. Also, a serious motorcycle enthusiast.  
 I am sharing my experiences, journeys through short stories and my views & opinions on various issues on my blog **Memoirs**.
 
 <img src="https://github.com/imounish/imounish/blob/master/memoirs_logo.jpg" width="200" href="https://imounish.github.io" alt="Memoirs Logo">  
