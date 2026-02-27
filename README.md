@@ -37,13 +37,13 @@ I am sharing my experiences, journeys through short stories and my views & opini
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imounish" alt="imounish" /></a> </p> -->
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently working on **tinyls**, and a few data engineering projects.
 
 - 👨‍💻 All of my projects are available at [https://mounish.dev](https://mounish.dev)
 
-- 📝 I regularly write articles on [https://blog.mounish.dev](https://blog.mounish.dev)
+- 📝 I sparingly write articles on [https://blog.mounish.dev](https://blog.mounish.dev)
 
-- 💬 Ask me about **Python, Deep Learning, AWS**
+- 💬 Ask me about **Spring Boot, Python, Data Engineering, System Design, Deep Learning, AWS**
 
 - 📫 How to reach me **mounishp@proton.me**
 
